@@ -1,0 +1,9 @@
+﻿  BankProgram.cpp
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(100,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(124,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(148,13): warning C4129: 'C': unrecognized character escape sequence
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(206,34): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(554,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(656,38): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Houssem\source\repos\BankProgram\BankProgram\BankProgram.cpp(786,36): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  BankProgram.vcxproj -> C:\Users\Houssem\source\repos\BankProgram\x64\Debug\BankProgram.exe
